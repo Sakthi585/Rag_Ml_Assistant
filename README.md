@@ -1,4 +1,4 @@
-RAG_ML_ASSISTANT
+IntelliDoc - RAG + ML Smart Document Assistant
 A Streamlit-based document analysis application that combines Retrieval-Augmented Generation (RAG) with Machine Learning for intelligent document querying.
 Features
 
@@ -96,4 +96,5 @@ pdfplumber: PDF text extraction
 License
 MIT License - feel free to use and modify
 Contributing
+
 Contributions are welcome! Please feel free to submit a Pull Request.
